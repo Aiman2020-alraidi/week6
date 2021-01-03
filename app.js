@@ -1,6 +1,6 @@
 export default (express, bodyParser, createReadStream, crypto, http) => {
   const app = express();
-  const author = "itmo2342351";
+  const author = "itmo294646";
 
   const CORS = {
     "Access-Control-Allow-Origin": "*",
